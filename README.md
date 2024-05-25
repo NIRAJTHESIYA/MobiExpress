@@ -9,6 +9,7 @@ Welcome to the E-Commerce Mobile Website project repository! This repository con
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
 - [Contact](#contact)
 
 ## About The Project
@@ -38,7 +39,8 @@ This project aims to deliver a comprehensive e-commerce solution tailored for Mo
 - **Other Tools & Libraries**:
   - VS Code
   - bcryptjs (for password hashing)
-  - dotenv (for environment variables)
+  - dotenv (for environment ![Screenshot (72)](https://github.com/NIRAJTHESIYA/MobiExpress/assets/153067974/593448e2-ec33-4290-8acd-b0137ba71420)
+variables)
 
 ## Getting Started
 
@@ -49,4 +51,12 @@ To get a local copy up and running, follow these simple steps.
 - HTML (version 5 or later)
 - PHP (version 6 or later)
 - Git
+
+### Contact
+
+Email - njthesiya111@gmail.com
+
+### Usage
+
+
 
